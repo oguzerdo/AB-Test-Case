@@ -26,7 +26,7 @@ The A/B test run for 1 month and bombabomba.com now expects you to analyze and p
 
 ## Data
 
-- Data: Real data a company uses to test Facebook's bidding system.
+- Data: Some data about website clicks, purchase and visiting.
 
 # Files
 
