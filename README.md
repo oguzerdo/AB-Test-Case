@@ -15,6 +15,7 @@ A Facebook ad campaign with “maximum bidding” is served to “control group�
 
 The A/B test run for 1 month and bombabomba.com now expects you to analyze and present the results of this A/B test.
 
+**IMPORTANT NOTE: Company names are all fictitious, this study case is just a scenario.**
 
 **You should answer the following questions in your presentation:**
 
